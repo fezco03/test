@@ -1,0 +1,10 @@
+{
+  "name": "FakeMessages",
+  "description": "Send fake messages to users with custom embeds and caching",
+  "version": "1.0.0",
+  "author": "YourName",
+  "license": "MIT",
+  "source": "https://github.com/yourname/kettu-fake-messages",
+  "updateUrl": "https://github.com/yourname/kettu-fake-messages/releases/latest/download/plugin.js",
+  "main": "dist/index.js"
+}
