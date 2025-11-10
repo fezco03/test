@@ -2,9 +2,9 @@
   "name": "FakeMessages",
   "description": "Send fake messages to users with custom embeds and caching",
   "version": "1.0.0",
-  "author": "YourName",
+  "author": "fezco03",
   "license": "MIT",
-  "source": "https://github.com/yourname/kettu-fake-messages",
-  "updateUrl": "https://github.com/yourname/kettu-fake-messages/releases/latest/download/plugin.js",
+  "source": "https://github.com/fezco03/hey",
+  "updateUrl": "https://raw.githubusercontent.com/fezco03/hey/main/manifest.json",
   "main": "dist/index.js"
 }
