@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "author": "YourName",
   "license": "MIT",
-  "source": "https://github.com/tfgttuijujju7-oss/hey",
-  "updateUrl": "https://raw.githubusercontent.com/tfgttuijujju7-oss/hey/main/manifest.json",
+  "source": "https://github.com/fezco03/hey",
+  "updateUrl": "https://raw.githubusercontent.com/fezco03/hey/main/manifest.json",
   "main": "src/index.ts"
 }
+
